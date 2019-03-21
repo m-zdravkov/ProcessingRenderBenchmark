@@ -1,0 +1,3 @@
+public enum TestType {
+    MAX, DIRECT, CALLING, PARAMETER, TRANSLATION
+}
